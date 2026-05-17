@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GymApp/GymApp.csproj" />
+  <Project Path="hareket/Uyelik.csproj" Id="7a8c4768-6b46-471a-989f-dc3e177a0ae3" />
+</Solution>
